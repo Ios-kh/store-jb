@@ -1,1 +1,1 @@
-# store-jb.com
+# store-jb
